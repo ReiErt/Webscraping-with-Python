@@ -22,18 +22,8 @@ IMDB is constantly changing the layout of its HTML page, including its HTML tags
 
 # How to run:
 
-1. call py setup.py to scrape data. #DB file is created automatically
-2. call py terminal_program.py # opens a run-time program in terminal
-
-# terminal_program.py offers the following functions:
-
-1. List of all available actors and actresses
-2. About the actor/actresses
-3. All time movie names and years
-4. Awards to actor/actresses in different years
-5. Movie genere of actor/actresses
-6. Average rating of their movies (overall and each year)
-7. Top 5 movies, their respective years and genre
+1. call py setup.py to scrape data  # static DB file is created. This script takes 30 minutes to run. Information on why in demonstration.pdf 
+2. call py terminal_program.py      # opens a run-time program in terminal
 
 # Dependencies
 
